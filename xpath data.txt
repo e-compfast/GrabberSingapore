@@ -1,5 +1,5 @@
 Data xpath Web :
-grab rows from table and link : https://singaporepool45toto.com
+https://singaporepool45toto.com
 
 1st Prize = //*[@id="p1"]
 2nd prize = //*[@id="p2"]
@@ -9,5 +9,6 @@ draw = /html/body/div/div/div/div/div[2]/table/tbody/tr[1]/td/div[1]/span // ret
 day = /html/body/div/div/div/div/div[2]/table/tbody/tr[1]/td/div[2]/span[1] //return wed,
 Date = /html/body/div/div/div/div/div[2]/table/tbody/tr[1]/td/div[2]/span[2] // Return 2020/06/23
 
-grab site 6 record rows from table and link : https://singaporepool45toto.com/prize1
+
+https://singaporepool45toto.com/prize1
 Mendapatkan data record 6 row dengan xpath : //*[@id="recordListing"]/tbody/tr/td
